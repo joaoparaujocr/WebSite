@@ -14,8 +14,15 @@ $(window).on('load', function(){
             height: 'toggle'
           });
     })
+    
+    verificarTela();
 
-    $(window).resize(function(){
-        document.location.reload(true);
-    })
+    function verificarTela(){
+        $(window).resize(function() {
+            let widthWindow = $(window).width();
+            if(widthWindow <= 600){
+                document.location.reload(true);
+            }
+        })
+    }
 })
