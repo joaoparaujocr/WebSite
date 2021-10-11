@@ -1,20 +1,21 @@
 # Projeto WebSite
 <p style="font-size: 16px;">Projeto de um WebSite responsivo, onde o intuito foi praticar a utilização de animações em CSS e também eventos utilizando o JavaScript via JQuery.</p>
 
-<button style="cursor: pointer;" href="https://joaoparaujocr.github.io/WebSite/"><a target="blank">Link para visualizar o projeto</a></button>
+<button style="cursor: pointer;"><a href="https://joaoparaujocr.github.io/WebSite/" target="blank">Link para visualizar o projeto</a></button>
 
 # Imagens do Projeto
 <div align="center">
-    <h3></h3>
-    <div style="display: inline-block; width: 68%;">
+    <h2>Desktop</h2>
+    <div style="display: inline-block; width: 50%;">
         <img src="images/gif-1.gif">
         <img src="images/img-1.png">
     </div>
+    <div style="display: inline-block;" width="50%">
+        <img src="images/gif-2.gif">
+    </div>
+    <h2>Mobile</h2>
     <div style="display: inline-block; width: 29%;">
         <img src="images/gif-1m.gif">
-    </div>
-    <div style="display: inline-block; width: 70%;">
-        <img src="images/gif-2.gif">
     </div>
     <div style="display: inline-block; width: 25%;">
         <img src="images/gif-2m.gif">
