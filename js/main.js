@@ -15,13 +15,17 @@ $(window).on('load', function(){
           });
     })
     
-    verificarTela();
+    verificarTela()
+
+    var largura = $(window).width();
 
     function verificarTela(){
         $(window).resize(function() {
             let widthWindow = $(window).width();
-            if(widthWindow <= 600){
-                document.location.reload(true);
+            if(largura != widthWindow){
+                if(widthWindow <= 600){
+                    document.location.reload(true);
+                }
             }
         })
     }
