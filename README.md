@@ -8,15 +8,13 @@
     <h2>Desktop</h2>
     <div style="display: inline-block; width: 50%;">
         <img src="images/gif-1.gif">
-        <img src="images/img-1.png">
+    </div>
+    <div style="display: inline-block; width: 70%;">
+        <img src="images/gif-2.gif">
     </div>
     <h2>Mobile</h2>
-    <div style="display: inline-block; width: 29%;">
-        <img src="images/gif-1m.gif">
-    </div>
-    <div style="display: inline-block; width: 25%;">
-        <img src="images/gif-2m.gif">
-    </div>
+    <img width="49%" src="images/gif-1m.gif">
+    <img width="49.5%" src="images/gif-2m.gif">
 </div>
 
 # Tecnologias
