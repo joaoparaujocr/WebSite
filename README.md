@@ -10,9 +10,6 @@
         <img src="images/gif-1.gif">
         <img src="images/img-1.png">
     </div>
-    <div style="display: inline-block;" width="50%">
-        <img src="images/gif-2.gif">
-    </div>
     <h2>Mobile</h2>
     <div style="display: inline-block; width: 29%;">
         <img src="images/gif-1m.gif">
